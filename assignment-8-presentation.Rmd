@@ -1,0 +1,47 @@
+---
+title: "Some things I learned this quarter"
+subtitle: "FISH 497"
+author: "Yasmine Hentati <br> yhentati@uw.edu </br>"
+email: "yhentati@uw.edu"
+date: "3/8/2021"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Introduction
+
+## About me | Personal
+
+* I was born in Tunis, Tunisia
+* My favorite food is tacos (spicy salsa necessary)
+* My favorite animal is the wolverine
+
+## About me | Academic
+
+* My undergraduate institution was the University of Maryland, College Park
+* I earned a B.S. in Environmental Science & Policy with a concentration in Wildlife Ecology & Management (such a mouthful)
+
+## About me | Things I've missed during the pandemic
+
+1. Hosting and cooking for friends
+2. More active work days 
+3. Visiting new places and meeting new people
+
+# Data Science 
+
+## Course topics | 3 things I enjoyed learning about
+
+1. Citations, reports, and presentations in RMarkdown
+2. The many wonders of GitHub!
+3. The importance of reproducible workflows 
+
+## Course topics | 3 things I want to learn more about
+
+1. Organizations within GitHub and more complicated repo structures
+2. How to scrape information from websites 
+3. What other programming languages are useful for R users and data scientists to know (Python, Julia, etc)
+
+##  {data-background=img/IMG-5992.JPG data-background-size=cover}
